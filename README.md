@@ -1,5 +1,5 @@
 # Contact Tracker DApp
-
+```
 This project is a decentralized application (DApp) that allows users to store and manage contact details on the blockchain. The system includes a custom smart contract, a backend built with NestJS, a Moralis Streams API to listen to contract events, and a frontend built with Next.js.
 
 ## Table of Contents
@@ -86,6 +86,5 @@ npm run dev
 1. Deploy the custom smart contract to your preferred blockchain network.
 2. Setup Moralis Streams API to listen to the events from the deployed smart contract.
 3. Run the backend server to receive events and store contact details.
-
 4. Access the frontend application to view and manage the stored contact details.
 ```
